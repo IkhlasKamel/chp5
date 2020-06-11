@@ -27,7 +27,7 @@ import javax.persistence.Persistence;
 /**
  * FXML Controller class
  *
- * @author Abu Yasser
+ * @author ikhlas
  */
 public class AddCourseController implements Initializable {
 

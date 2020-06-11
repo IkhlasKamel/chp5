@@ -37,7 +37,7 @@ import javax.persistence.Query;
 /**
  * FXML Controller class
  *
- * @author Abu Yasser
+ * @author ikhlas
  */
 public class TableViewPaneController implements Initializable {
 
